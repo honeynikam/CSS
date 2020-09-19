@@ -1,4 +1,5 @@
 # CSS
+<!DOCTYPE html>
 <html>
 <head>
 <style>
